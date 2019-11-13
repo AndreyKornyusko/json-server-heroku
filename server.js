@@ -8,5 +8,5 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port, () => {
-  console.log('Server is listening on port 4040');
+  console.log('Server is listening on port 3000');
 });
