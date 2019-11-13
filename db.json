@@ -39,7 +39,13 @@
       "image": "https://s1.eda.ru/StaticContent/Photos/121114213720/151024152626/p_O.png",
       "price": 100,
       "category": "soup",
-      "ingredients": ["Тыква", "Петрушка", "Сливки", "Бренди", "Куриный бульон"]
+      "ingredients": [
+        "Тыква",
+        "Петрушка",
+        "Сливки",
+        "Бренди",
+        "Куриный бульон"
+      ]
     },
     {
       "id": 4,
@@ -138,7 +144,6 @@
         "Кунжутное масло"
       ]
     },
-
     {
       "id": 10,
       "name": "Бефстроганов",
@@ -200,34 +205,33 @@
       ]
     },
     {
-    "id": 15,
-    "name": "Пахлава",
-    "description": "Пахлава, или баклава, — популярная восточная сладость, долговечный союз между медом и слоеным тестом. В древности пахлава подавалась только султанам и богачам — для бедняков блюдо было недоступно. По традиционному рецепту десерт готовят из тонких, как бумага, листов теста, промазывают их маслом или жиром и выкладывают слоями. Начинка пахлавы делается из молотых или порубленных орехов, обычно грецких, заранее пропитанных специями, медом или сахарным сиропом и розовой водой. Лучше, если орехи сначала поджарить в духовке или на сковороде и добавить в них корицу и кардамон. Выпекают пахлаву разной формы: прямоугольной, круглой, квадратной или в форме рулетов. Приготовление пахлавы дома займет много времени, но ради идеального сочетания сладости и ароматных специй можно постараться. Блюдо готовят не только в Турции, Азербайджане, Греции и всех странах Средиземноморья, но и в Великобритании и Америке, где ее поливают шоколадом или кленовым сиропом. Пошаговые рецепты пахлавы и фотографии к ним подготовили наши авторы.",
-    "image": "https://img09.rl0.ru/eda/c620x415i/s1.eda.ru/StaticContent/Photos/131014225425/140617081842/p_O.jpg",
-    "price": 120,
-    "category": "dessert",
-    "ingredients": [
-      "Мука",
-      "Мед",
-      "Тертый имбирь",
-      "Легкий соевый соус",
-      "Кунжутное масло"
-    ]
-  },
-{
-  "id": 16,
-  "name": "Бисквит",
-  "description": "Бисквит — кондитерское выпечное изделие или кондитерский хлеб, приготовленный из муки, сахара и яиц. Простой на первый взгляд рецепт бисквита имеет множество вариаций. Чтобы бисквит получился воздушным и не опадал, советуем взбивать яйца с сахаром до сильного увеличения в объеме, просеивать в воздушную массу муку и быстро перемешивать. Классический бисквит часто используется в качестве основы для тортов, пирожных и сложных многослойных печений. Выпекают бисквит в духовке, а затем снимают корочку и пропитывают его ликером или джемом, глазируют, смазывают кремом или прослаивают мармеладом. Приготовить этот вкусный десерт легко и дома. Наши авторы делятся пошаговыми рецептами приготовления бисквитов и фотографиями к ним.",
-  "image": "https://img05.rl0.ru/eda/c620x415i/s1.eda.ru/StaticContent/Photos/150307165038/150315182540/p_O.jpg",
-  "price": 140,
-  "category": "dessert",
-  "ingredients": [
-    "Мука",
-    "Мед",
-    "Яичный белок"
-  ]
-}
-
+      "id": 15,
+      "name": "Пахлава",
+      "description": "Пахлава, или баклава, — популярная восточная сладость, долговечный союз между медом и слоеным тестом. В древности пахлава подавалась только султанам и богачам — для бедняков блюдо было недоступно. По традиционному рецепту десерт готовят из тонких, как бумага, листов теста, промазывают их маслом или жиром и выкладывают слоями. Начинка пахлавы делается из молотых или порубленных орехов, обычно грецких, заранее пропитанных специями, медом или сахарным сиропом и розовой водой. Лучше, если орехи сначала поджарить в духовке или на сковороде и добавить в них корицу и кардамон. Выпекают пахлаву разной формы: прямоугольной, круглой, квадратной или в форме рулетов. Приготовление пахлавы дома займет много времени, но ради идеального сочетания сладости и ароматных специй можно постараться. Блюдо готовят не только в Турции, Азербайджане, Греции и всех странах Средиземноморья, но и в Великобритании и Америке, где ее поливают шоколадом или кленовым сиропом. Пошаговые рецепты пахлавы и фотографии к ним подготовили наши авторы.",
+      "image": "https://img09.rl0.ru/eda/c620x415i/s1.eda.ru/StaticContent/Photos/131014225425/140617081842/p_O.jpg",
+      "price": 120,
+      "category": "dessert",
+      "ingredients": [
+        "Мука",
+        "Мед",
+        "Тертый имбирь",
+        "Легкий соевый соус",
+        "Кунжутное масло"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Бисквит",
+      "description": "Бисквит — кондитерское выпечное изделие или кондитерский хлеб, приготовленный из муки, сахара и яиц. Простой на первый взгляд рецепт бисквита имеет множество вариаций. Чтобы бисквит получился воздушным и не опадал, советуем взбивать яйца с сахаром до сильного увеличения в объеме, просеивать в воздушную массу муку и быстро перемешивать. Классический бисквит часто используется в качестве основы для тортов, пирожных и сложных многослойных печений. Выпекают бисквит в духовке, а затем снимают корочку и пропитывают его ликером или джемом, глазируют, смазывают кремом или прослаивают мармеладом. Приготовить этот вкусный десерт легко и дома. Наши авторы делятся пошаговыми рецептами приготовления бисквитов и фотографиями к ним.",
+      "image": "https://img05.rl0.ru/eda/c620x415i/s1.eda.ru/StaticContent/Photos/150307165038/150315182540/p_O.jpg",
+      "price": 140,
+      "category": "dessert",
+      "ingredients": [
+        "Мука",
+        "Мед",
+        "Яичный белок"
+      ]
+    }
   ],
   "categories": [
     {
@@ -246,5 +250,22 @@
       "id": 3,
       "name": "main course"
     }
+  ],
+  "fighters":[
+    { "id": "ShangTsung", "name": "Shang Tsung", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/a/a4/Shang3.jpg/revision/latest?cb=20090310024111&path-prefix=es" },
+    { "id": "Sindel", "name": "Sindel", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/6/61/Sindelumk3.jpg/revision/latest?cb=20090310023724&path-prefix=es" },
+    { "id": "Jax", "name": "Jax", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/4/41/Jax3.jpg/revision/latest?cb=20090310024324&path-prefix=es" },
+    { "id": "Kano", "name": "Kano", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/3/3b/Kanomk3.gif/revision/latest?cb=20081215013406&path-prefix=es" },
+    { "id": "LiuKang", "name": "Liu Kang", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/b/b4/Liu3.jpg/revision/latest?cb=20090310023304&path-prefix=es" },
+    { "id": "SonyaBlade", "name": "Sonya Blade", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/0/05/Sonya3.jpg/revision/latest?cb=20090310034551&path-prefix=es" },
+    { "id": "Styker", "name": "Styker", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/9/90/Stryker.gif/revision/latest?cb=20081217082746&path-prefix=es" },
+    { "id": "Smoke", "name": "Smoke", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/6/6c/Smoke-anim.gif/revision/latest?cb=20081212102833&path-prefix=es" },
+    { "id": "SubZero", "name": "Sub-Zero", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/c/c6/Sub3.jpg/revision/latest?cb=20090310024842&path-prefix=es" },
+    { "id": "Cyrax", "name": "Cyrax", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/d/d5/MK3CyraxSS.gif/revision/latest?cb=20081210053133&path-prefix=es" },
+    { "id": "Sektor", "name": "Sektor", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/f/f0/Sektor.gif/revision/latest?cb=20081218053748&path-prefix=es" },
+    { "id": "Nightwolf", "name": "Nightwolf", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/2/2b/Nightwolf34.gif/revision/latest?cb=20081220063351&path-prefix=es" },
+    { "id": "Sheeva", "name": "Sheeva", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/c/cc/Sheeva3.jpg/revision/latest?cb=20090310031301&path-prefix=es" },
+    { "id": "KungLao", "name": "Kung Lao", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/e/ea/Kunglaoo.gif/revision/latest?cb=20081216075739&path-prefix=es" },
+    { "id": "Kabal", "name": "Kabal", "img": "https://vignette.wikia.nocookie.net/mortalkombat/images/6/69/Kabal122.gif/revision/latest?cb=20081217062431&path-prefix=es" }
   ]
 }
