@@ -537,7 +537,9 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
+
     },
     {
       "isAdvertActive": false,
@@ -702,7 +704,9 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
+
     },
     {
       "isAdvertActive": true,
@@ -867,7 +871,9 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
+
     },
     {
       "isAdvertActive": true,
@@ -1032,7 +1038,9 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
+
     }
   ],
   "active_ads": [
@@ -1199,7 +1207,9 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
+
     },
     {
       "isAdvertActive": true,
@@ -1364,7 +1374,9 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
+
     },
     {
       "isAdvertActive": true,
@@ -1529,7 +1541,8 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
     }
   ],
   "inactive_ads": [
@@ -1696,7 +1709,8 @@
       "checkinTimeTo": "10:00",
       "checkoutTime": "10:00",
       "keyTransferAddress": "Пушкина ,12",
-      "numberOfResidents": "5"
+      "numberOfResidents": "5",
+      "repairDate": "2010"
     }
   ]
 }
