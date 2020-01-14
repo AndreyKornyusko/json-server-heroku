@@ -1704,7 +1704,7 @@
       "numberOfResidents": "5",
       "repairDate": "2010"
     }
-    ],
+  ],
   "inactive_ads": [
     {
       "isAdvertActive": false,
@@ -2038,6 +2038,6 @@
       "numberOfResidents": "5",
       "repairDate": "2010"
     }
-
-  ]
+  ],
+  "allcomplaints": []
 }
