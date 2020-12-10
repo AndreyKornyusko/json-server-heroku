@@ -2118,17 +2118,7 @@
       "businessLocation": "Kiev",
       "email": "kap86@amazing.mail",
       "phone": "+380954361639",
-      "hourlyRate": "2000/h"
-    },
-    {
-      "id": 106,
-      "fullName": "March Tiger",
-      "role": "tiger",
-      "businessLocation": "Kiev",
-      "email": "kap86@amazing.mail",
-      "phone": "+380954361639",
-      "hourlyRate": "3000/h"
+      "hourlyRate": "7000/h"
     }
-
   ]
 }
