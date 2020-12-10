@@ -2082,7 +2082,7 @@
       "businessLocation": "New York",
       "email": "johnwick@gmail.com",
       "phone": "455-44-41",
-      "hourlyRate": "2000/h"
+      "hourlyRate": "9000/h"
     },
     {
       "id": 102,
@@ -2113,30 +2113,22 @@
     },
     {
       "id": 105,
-      "fullName": "John Wick",
-      "role": "hunter",
-      "businessLocation": "Chicago",
-      "email": "johnwick@gmail.com",
-      "phone": "455-44-41",
-      "hourlyRate": "6000/h"
+      "fullName": "March Tiger",
+      "role": "tiger",
+      "businessLocation": "Kiev",
+      "email": "kap86@amazing.mail",
+      "phone": "+380954361639",
+      "hourlyRate": "2000/h"
     },
     {
       "id": 106,
-      "fullName": "John Wick",
-      "role": "hunter",
-      "businessLocation": "Chicago",
-      "email": "johnwick@gmail.com",
-      "phone": "455-44-41",
-      "hourlyRate": "4000/h"
-    },
-    {
-      "id": 107,
-      "fullName": "John Wick",
-      "role": "hunter",
-      "businessLocation": "Chicago",
-      "email": "johnwick@gmail.com",
-      "phone": "455-44-41",
-      "hourlyRate": "8000/h"
+      "fullName": "March Tiger",
+      "role": "tiger",
+      "businessLocation": "Kiev",
+      "email": "kap86@amazing.mail",
+      "phone": "+380954361639",
+      "hourlyRate": "3000/h"
     }
+
   ]
 }
