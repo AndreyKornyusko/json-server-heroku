@@ -2120,5 +2120,75 @@
       "phone": "+380954361639",
       "hourlyRate": "7000/h"
     }
+  ],
+  "tableItems": [
+    {
+      "id": 101,
+      "status": "Active",
+      "state": "ex president",
+      "city": "New York",
+      "collagename": "Donald Trump",
+      "firstname": "Donald",
+      "lastname": "Trump",
+      "phone": "455-44-41",
+      "collageemail": "trump@mail.com",
+      "trainingComplited": 0.16666666666666666,
+      "complitedTours": 8,
+      "upcomingTours": 10,
+      "canceledTours": 10,
+      "resheduledTours": 10,
+      "joindate": "Wed, 02 May 2013 08:00:00 GMT"
+    },
+    {
+      "id": 102,
+      "status": "Pending",
+      "state": "great man",
+      "city": "Chicago",
+      "collagename": "Ilon Mask",
+      "firstname": "Ilon",
+      "lastname": "Mask",
+      "phone": "455-44-42",
+      "collageemail": "Mask@mail.com",
+      "trainingComplited": 0.5,
+      "complitedTours": 12,
+      "upcomingTours": 7,
+      "canceledTours": 5,
+      "resheduledTours": 6,
+      "joindate": "Wed, 27 May 2014 08:00:00 GMT"
+    },
+    {
+      "id": 103,
+      "status": "Blocked",
+      "state": "businessman",
+      "city": "Vegas",
+      "collagename": "Bill Gates",
+      "firstname": "Bill",
+      "lastname": "Gates",
+      "phone": "455-44-43",
+      "collageemail": "Gates@mail.com",
+      "trainingComplited": 0.125,
+      "complitedTours": 11,
+      "upcomingTours": 14,
+      "canceledTours": 1,
+      "resheduledTours": 2,
+      "joindate": "Wed, 12 May 2011 08:00:00 GMT"
+    },
+    {
+      "id": 104,
+      "status": "Blocked",
+      "state": "actor",
+      "city": "Hollywood",
+      "collagename": "Sylvester Stallone",
+      "firstname": "Sylvester",
+      "lastname": "Stallone",
+      "phone": "455-44-44",
+      "collageemail": "Stallone@mail.com",
+      "trainingComplited": 1,
+      "complitedTours": 3,
+      "upcomingTours": 12,
+      "canceledTours": 12,
+      "resheduledTours": 12,
+      "joindate": "Wed, 25 May 2013 08:00:00 GMT"
+    }
   ]
 }
