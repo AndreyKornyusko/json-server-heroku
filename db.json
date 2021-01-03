@@ -2189,6 +2189,23 @@
       "canceledTours": 12,
       "resheduledTours": 12,
       "joindate": "Wed, 25 May 2013 08:00:00 GMT"
+    },
+    {
+      "id": 105,
+      "status": "Blocked",
+      "state": "actor",
+      "city": "Hollywood",
+      "collagename": "Chuck Norris",
+      "firstname": "Chuck",
+      "lastname": "Norris",
+      "phone": "455-44-45",
+      "collageemail": "Norris@mail.com",
+      "trainingComplited": 1,
+      "complitedTours": 3,
+      "upcomingTours": 12,
+      "canceledTours": 12,
+      "resheduledTours": 12,
+      "joindate": "Wed, 27 May 2010 08:00:00 GMT"
     }
   ]
 }
